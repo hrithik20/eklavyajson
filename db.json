@@ -1,6 +1,5 @@
 {
 "quiz":[
-{
   "title": "Quiz about Foo",
   "questions": [
     {
@@ -35,6 +34,6 @@
       "answer": "Sugar"
     }
   ]
-}
+
 ]
 }
