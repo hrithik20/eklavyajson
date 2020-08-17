@@ -1,6 +1,5 @@
 {
-"quiz":[
-  "title": "Quiz about Foo",
+  "title":[ "Quiz about Foo"],
   "questions": [
     {
       "text": "Is true true?",
